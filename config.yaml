@@ -66,7 +66,7 @@ params:
     - name: linkedin
       url:  https://www.linkedin.com/in/gabriel-reed-614636102/
     - name: instagram
-      url:  https://www.instagram.com/gabe.comics/
+      url:  https://www.instagram.com/gabe.giraffes/
 
   # text search
   fuseOpts:

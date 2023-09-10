@@ -28,7 +28,7 @@ menu:
 
 params:
   # theme
-  showToc: true
+  showToc: false
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -43,7 +43,7 @@ params:
     enabled: true
     title: "Gabriel Reed"
     subtitle: Pipeline TD & Software Developer
-    imageUrl: "home/formal-pic-small.jpeg"
+    imageUrl: "home/headshot.png"
     imageWidth: 220
     imageHeight: 220
     # buttons:

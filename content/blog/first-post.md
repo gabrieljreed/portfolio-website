@@ -20,3 +20,5 @@ Whether you're an artist, developer, or anything in between, I invite you to joi
 Stay tuned for more stories, insights, and maybe a few more giraffes along the way!
 
 \- Gabe
+
+![giraffe](/blog/hello-world/normanrockwell.PNG)

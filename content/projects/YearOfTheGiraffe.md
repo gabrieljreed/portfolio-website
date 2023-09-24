@@ -4,6 +4,7 @@ description: "Unleashing Creativity and Embracing Imperfection"
 date: 2023-09-10T12:02:56-06:00
 # dateString: Jan 2021 - May 2021
 draft: false
+weight: 200
 tags: []
 cover:
     image: "projects/year-of-the-giraffe/mailman.PNG"

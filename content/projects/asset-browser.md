@@ -54,3 +54,7 @@ One of the benefits of working in a small company is that I could get feedback f
 - Adding wildcards and negation to the search
 
 I also added a form to the application that when submitted would create a new GitHub issue. This allowed the artists to easily submit feedback and bug reports, and it also allowed me to keep track of all the feedback in one place.
+
+## Results
+
+The Asset Browser was a huge success, and it was used by all the artists at Studio Zubio. It allowed us to easily find assets, and it also allowed us to add metadata to assets, which made them easier to find. It also allowed us to easily add tags to assets, which made it even easier to find assets. It also allowed us to easily preview assets, which made it easier to find the right asset for the job. It was also a great learning experience for me as I learned a lot about databases, Python, and Qt, along with how to build a user-friendly application.

@@ -1,7 +1,7 @@
 ---
 title: "Pipeline Technical Director"
 description: "Studio Zubio (Utah)"
-dateString: June 2022 - Present
+dateString: June 2022 - October 2023
 draft: false
 tags: []
 showToc: false

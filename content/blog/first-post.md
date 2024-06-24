@@ -17,7 +17,7 @@ In my "Giraffe-a-Day" project, I learned that even on the toughest days, when in
 
 Whether you're an artist, developer, or anything in between, I invite you to join me on this exploration of creativity, discipline, and the beauty of sticking with something even when it feels challenging.
 
-Stay tuned for more stories, insights, and maybe a few more giraffes along the way!
+Stay tuned for more stories, insights, and maybe a few more [giraffes](/projects/yearofthegiraffe) along the way!
 
 \- Gabe
 

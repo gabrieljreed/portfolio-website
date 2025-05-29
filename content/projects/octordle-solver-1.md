@@ -3,6 +3,7 @@ title: "Octordle Solver - Part 1"
 date: 2025-04-27T21:05:30-07:00
 draft: false
 tags: ["python", "wordle", "octordle"]
+weight: 50
 cover:
     image: "/projects/octordle-solver/wordle-solver-ui.png"
 ---

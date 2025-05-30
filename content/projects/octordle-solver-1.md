@@ -128,7 +128,7 @@ Before paring down the possibilities to check, running the initial step, where t
 
 ## Word list
 
-With my solver, I played through the Wordle archives and compared my results to the "optimal" guesses provided by Wordle Bot. I realized that once I got the algorithm down, all the improvements came from paring down the list of words to valid ones. I originally did a few passes to eliminate plurals of 4 letter words, misspelled words, and proper nouns. This did a decent job, but it wasn't until I sat down (over the course of several evenings) and manually filtered out words that just wouldn't be Wordle answers, (like HAWSE, KAROO, and TASSE), since Wordle avoid obscure and archaic words, even if they're valid answers. Doing this made much more of a difference than I expected - I can now frequently get the most optimal guesses according to Wordle Bot, which it acknowledges with a fun message.
+With my solver, I played through the Wordle archives and compared my results to the "optimal" guesses provided by Wordle Bot. I realized that once I got the algorithm down, all the improvements came from paring down the list of words to valid ones. I originally did a few passes to eliminate plurals of 4 letter words, misspelled words, and proper nouns. This did a decent job, but it wasn't until I sat down (over the course of several evenings) and manually filtered out words that just wouldn't be Wordle answers, (like HAWSE, KAROO, and TASSE), since Wordle avoids obscure and archaic words, even if they're valid answers. Doing this made much more of a difference than I expected - I can now frequently get the most optimal guesses according to Wordle Bot, which it acknowledges with a fun message.
 
 ![we-are-as-one](/projects/octordle-solver/we-are-as-one.png)
 

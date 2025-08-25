@@ -3,7 +3,6 @@ title: "Zubio Asset Browser"
 description: "A tool for managing and organizing studio assets"
 date: 2023-09-10T12:02:56-06:00
 draft: false
-weight: 100
 tags: ["sql", "python", "qt", "maya"]
 cover:
     image: "projects/asset-browser/asset-browser-beedee.png"

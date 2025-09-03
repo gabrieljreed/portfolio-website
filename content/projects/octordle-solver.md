@@ -83,7 +83,7 @@ When none of the puzzles have a trivial solution, we have to get a guess that is
     return best_guess
 ```
 
-Weighting scores helps ensure we don't waste guesses solving an already-narrow puzzle and ignoring harder ones.
+Weighting scores helps ensure we don't waste guesses solving an already-narrow puzzle while ignoring harder ones.
 
 ## Scoring a guess
 
